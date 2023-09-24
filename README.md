@@ -47,68 +47,68 @@
             <p class="logo-heading">Acharya's Government Portal<span class="logo-sub-heading">nepal.gov.np</span></p></div><div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav  navbar-right">
                 <li><a href="/NationalPortal/home">Home</a></li>
-                <li class="dropdown menu-large"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">नेपाल बारे <b class="caret"></b></a>
+                <li class="dropdown menu-large"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">About His Majesty Land <b class="caret"></b></a>
                     <ul class="dropdown-menu megamenu row">
                         <li class="col-sm-3">
                             <ul>
-                                <li class="dropdown-header">नेपाल </li>
-                                <li><a href="/NationalPortal/view-page?id=107">इतिहास </a></li>
-                                <li><a href="/NationalPortal/view-page?id=73">भुगोल </a></li>
-                                <li><a href="/NationalPortal/view-page?id=76">संस्कृति</a></li>
-                                <li><a href="/NationalPortal/view-page?id=48">जनता</a></li>
-                                <li><a href="/NationalPortal/view-page?id=22">भाषा</a></li>
-                                <li><a href="/NationalPortal/view-page?id=71">ठाउँहरू</a></li>
+                                <li class="dropdown-header">Kingdom of Nepal </li>
+                                <li><a href="/NationalPortal/view-page?id=107">History </a></li>
+                                <li><a href="/NationalPortal/view-page?id=73">Geology </a></li>
+                                <li><a href="/NationalPortal/view-page?id=76">Culture</a></li>
+                                <li><a href="/NationalPortal/view-page?id=48">People</a></li>
+                                <li><a href="/NationalPortal/view-page?id=22">Language</a></li>
+                                <li><a href="/NationalPortal/view-page?id=71">Places</a></li>
                             </ul>
                         </li>
                         <li class="col-sm-3">
                             <ul>
-                                <li class="dropdown-header">राजनीति</li>
-                                <li><a href="/NationalPortal/view-page?id=102">नेपालको राजनीति</a></li>
-                                <li><a href="https://election.gov.np/" target="_blank">राजनीतिक दलहरु</a></li>
+                                <li class="dropdown-header">Politics</li>
+                                <li><a href="/NationalPortal/view-page?id=102">Politics of Nepal </a></li>
+                                <li><a href="https://election.gov.np/" target="_blank">His Majesty's Kingdom</a></li>
                             </ul>
                         </li>
                         <li class="col-sm-3">
                             <ul>
-                                <li class="dropdown-header">स्थानीय निकायहरू</li>
-                                <li><a href="http://103.69.124.141/website/" target="_blank">स्थानीय तह</a></li>
+                                <li class="dropdown-header">Local Bodies</li>
+                                <li><a href="http://103.69.124.141/website/" target="_blank"> Local Levels</a></li>
                             </ul>
                         </li>
                         <li class="col-sm-3">
                             <ul>
-                                <li class="dropdown-header">नेपालको नक्सा</li>
+                                <li class="dropdown-header">Map of Nepal Kingdom</li>
                                 <li style="margin-left:0px;"><a href="https://www.sthaniya.gov.np/gis/" target="_blank"> <img src="portal/images/map.png" alt="" style="width:90%"></a></li>
                             </ul>
                         </li>
                     </ul>
                 </li>
-                <li class="dropdown menu-large"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">सरकार<b class="caret"></b></a>
+                <li class="dropdown menu-large"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">His Majesty's Government<b class="caret"></b></a>
                     <ul class="dropdown-menu megamenu row">
                         <li class="col-sm-3">
                             <ul>
-                                <li class="dropdown-header">संविधान</li>
-                                <li><a href="/NationalPortal/view-page?id=4">नेपालको संविधान</a></li>
+                                <li class="dropdown-header">Constitution</li>
+                                <li><a href="/NationalPortal/view-page?id=4"> Constitution of Kingdom</a></li>
                                 <li role="separator" class="divider"></li>
-                                <li class="dropdown-header">व्यवस्थापिका</li>
-                                <li><a href="/NationalPortal/view-page?id=51">व्यवस्थापिका</a></li>
+                                <li class="dropdown-header">Executive</li>
+                                <li><a href="/NationalPortal/view-page?id=51">Executive Bodies</a></li>
                                 <li role="separator" class="divider"></li>
-                                <li class="dropdown-header">न्यायपालिका</li>
-                                <li><a href="/NationalPortal/view-page?id=47">न्यायपालिका</a></li>
+                                <li class="dropdown-header">Judiciary</li>
+                                <li><a href="/NationalPortal/view-page?id=47">Judicial Bodies</a></li>
                                    <li role="separator" class="divider"></li>
-                                <li class="dropdown-header"> ऐन, कानून र नीति</li>
-                                <li><a href="/NationalPortal/view-page?id=10">नीति</a></li>
-                                <li><a href="/NationalPortal/view-page?id=99">ऐन</a></li>
-                                <li><a href="/NationalPortal/view-page?id=97">कानून</a></li>
+                                <li class="dropdown-header"> Laws and Rules</li>
+                                <li><a href="/NationalPortal/view-page?id=10">Policies</a></li>
+                                <li><a href="/NationalPortal/view-page?id=99">Rules</a></li>
+                                <li><a href="/NationalPortal/view-page?id=97">Law</a></li>
                                    <li role="separator" class="divider"></li>
-                                <li class="dropdown-header"> महत्त्वपूर्ण सरकारी निर्णयहरु</li>
-                                <li><a href="/NationalPortal/view-page?id=417">सरकारी निर्णय</a></li>
+                                <li class="dropdown-header"> Important Kingdom Bodies </li>
+                                <li><a href="/NationalPortal/view-page?id=417"> His Majesty's Decisions</a></li>
                             </ul>
                         </li>
                         <li class="col-sm-3">                         
                             <ul>
                                 <li class="dropdown-header">कार्यपालिका</li>
-                                <li><a href="/NationalPortal/view-page?id=41">सम्माननीय राष्ट्रपति</a></li>
-                                <li><a href="/NationalPortal/view-page?id=74">सम्माननीय उपराष्ट्रपति</a></li>
-                                <li><a href="/NationalPortal/view-page?id=105">सम्माननीय प्रधानमन्त्री</a></li>
+                                <li><a href="/NationalPortal/view-page?id=41">The lord of land Acharya's Kingdom</a></li>
+                                <li><a href="/NationalPortal/view-page?id=74"></a></li>
+                                <li><a href="/NationalPortal/view-page?id=105"></a></li>
                                 <li><a href="https://www.opmcm.gov.np/cabinet/" target="_blank">माननीय मन्त्रीहरु</a></li>
                                 <li><a href="https://nepal.gov.np:8443/NationalPortal/view-page?id=5">मुख्य सचिव</a></li>
                                 <li><a href="http://www.opmcm.gov.np/allsecretaries/" target="_blank">मन्त्रालयका सचिवहरु</a></li>
@@ -121,24 +121,11 @@
                         </li>
                         <li class="col-sm-3">
                             <ul>
-                                <li class="dropdown-header">नेपालका सम्वैधानिक निकायहरु</li>
-                                <li><a href="/NationalPortal/view-page?id=17">अख्तियार दुरुपयोग अनुसन्धान आयोग</a></li>
-                                <li><a href="/NationalPortal/view-page?id=103">महालेखा परिक्षकको कार्यालय</a></li>
-                                <li><a href="/NationalPortal/view-page?id=6">लोक सेवा आयोग</a></li>
-                                <li><a href="/NationalPortal/view-page?id=53">निर्वाचन आयोग</a></li>
-                                <li><a href="/NationalPortal/view-page?id=19">राष्ट्रिय मानव अधिकार आयोग</a></li>
-                                <li><a href="/NationalPortal/view-page?id=100">महान्याधिवक्ताको कार्यालय</a></li>
-                                <li><a href="/NationalPortal/view-page?id=441">राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोग</a></li>  
-                                <li><a href="/NationalPortal/view-page?id=438">राष्ट्रिय महिला आयोग</a></li>   
-                                <li><a href="/NationalPortal/view-page?id=439">राष्ट्रिय दलित आयोग</a></li>           
-                                
+                             
                                  <li role="separator" class="divider"></li>
                                 <li class="dropdown-header">विभागिय सुचना तथा सेवा </li>
                                 <li><a href="/NationalPortal/view-page?id=197">वन तथा भू-संरक्षण विभाग</a></li>
-                                <li><a href="https://mowcsc.gov.np/rules/aw84rpc8vW65m1tepIoLjfxaTEij6hMg4YE6G6CR-1625469595.pdf" target="_blank">महिला तथा बालबालिका विभाग</a></li>
-<li><a href="/NationalPortal/view-page?id=183">मुद्रण विभाग</a></li>
-<li><a href="/NationalPortal/view-page?id=237">अध्यागमन विभाग</a></li>
-                            </ul>
+                                <li><a href="https://mowcsc.gov.np/rules/aw84rpc8vW65m1tepIoLjfxaTEij6hMg4YE6G6CR-1625469595.pdf" 
                         </li>
                         <li class="col-sm-3">
                             <ul>
@@ -150,16 +137,12 @@
                                     <li class="dropdown-header">विभागिय सुचना तथा सेवा </li>
                                 <li><a href="/NationalPortal/view-page?id=175">विधुत विकास विभाग</a></li>
                               <li><a href="https://www.dwri.gov.np/files/document/20210222080549.pdf" target="_blank">सिंचाइ विभाग</a></li>
- <li><a href="https://dmgnepal.gov.np/uploads/documents/1507442985%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A5%80-%E0%A4%A4%E0%A4%A5%E0%A4%BE-%E0%A4%96%E0%A4%A8%E0%A4%BF%E0%A4%9C-%E0%A4%AA%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5-%E0%A4%8F%E0%A5%87%E0%A4%A8-%E0%A5%A8pdf-2825-610-1684051309.pdf" target="_blank">खानी तथा भूगर्भ विभाग</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
-                <li class="dropdown menu-large"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">नागरिक<b class="caret"></b></a>
+
+                <li class="dropdown menu-large"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Citizens<b class="caret"></b></a>
                     <ul class="dropdown-menu megamenu row">
                         <li class="col-sm-3">
                             <ul>
-                                <li class="dropdown-header">रोजगारी</li>
+                                <li class="dropdown-header">Employment</li>
                                 <li><a href="/NationalPortal/view-page?id=56">सरकारी नीति</a></li>
                                 <li><a href="/NationalPortal/view-page?id=36">लोक सेवा आयोग</a></li>
                                 <li><a href="/NationalPortal/view-page?id=158">सशस्त्र प्रहरी बल</a></li>
