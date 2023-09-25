@@ -1605,10 +1605,10 @@ function getWeather(weatherValue){
             <div class="col col-md-3 footer-content" style="">
                 <h3 style="font-weight: normal; color: white; font-size: 15px;" class="footer-headline">मोबाईल एप्स तथा सामाजिक सन्जाल</h3>
                 <ul style="">
-                    <li style="font-weight: normal;"><i class="fa fa-facebook-official" aria-hidden="true"></i><a href="https://www.facebook.com/" target="_blank">फेसबुक </a></li>
-                    <li style="font-weight: normal;"><i class="fa fa-twitter-square" aria-hidden="true"></i><a href="https://www.twitter.com/" target="_blank">ट्विटर </a></li>
-                    <li style="font-weight: normal;"><i class="fa fa-android" aria-hidden="true"></i><a href="https://play.google.com/store/apps/details?id=com.yajtech.nagarikapp&amp;hl=ne&amp;gl=US" target="_blank">नेपाल सरकारको नागरिक एप्स ( एन्डरोइड )</a></li>
-                    <li style="font-weight: normal;"><i class="fa fa-apple" aria-hidden="true"></i><a href="https://apps.apple.com/us/app/nagarik-app/id1493013430#?platform=iphone" target="_blank">नेपाल सरकारको नागरिक एप्स ( एप्पल )</a></li>
+                    <li style="font-weight: normal;"><i class="fa fa-facebook-official" aria-hidden="true"></i><a href="" target="_blank">फेसबुक </a></li>
+                    <li style="font-weight: normal;"><i class="fa fa-twitter-square" aria-hidden="true"></i><a href="" target="_blank">ट्विटर </a></li>
+                    <li style="font-weight: normal;"><i class="fa fa-android" aria-hidden="true"></i><a href="">Kinfdom's App for Android</a></li>
+                    <li style="font-weight: normal;"><i class="fa fa-apple" aria-hidden="true"></i><a href="">Kingdom's App</a></li>
                 </ul><b>
                 <div class="col col-md-12" style="font-weight: normal;">
                     <h4 class="footer-headline" style="margin-top: 0px !important;">नागरिक एप्स</h4> <a href="https://play.google.com/store/apps/details?id=com.yajtech.nagarikapp&amp;hl=ne&amp;gl=US"><img src="portal/images/google-store-icon.png" alt=""></a> <a href="https://apps.apple.com/ca/app/nagarik-app/id1493013430#?platform=iphone"><img src="portal/images/apple-store-icon.png" style="margin-left:15px" alt=""></a>                </div> <span style="font-weight: normal; text-align: center; width: 100%; color: white;"> </span> <span style="text-align:center; width:100%;  color:white;"></span>            </b></div><b>
@@ -1631,16 +1631,16 @@ function getWeather(weatherValue){
                     <!--<li>विज्ञान तथा प्रविधि मन्त्रालय</li>-->
                     <!--<li>नेपाल सरकार </li>-->
                     <li>सिंहदरवार, काठमाडौं</li>
-                    <li>फोन: +९७७-१- ४२११९१७, ४२११७१०, ४२११५२७</li>
-                    <li>फ्याक्स:+९७७-१-४२४३३६२</li>
-                    <li>इमेल: nationalportal@nitc.gov.np</li>
+                    <li>फोन: +977-9846952568</li>
+                    <li>फ्याक्स:+</li>
+                    <li>इमेल: bibekacharya41@gmail.com</li>
                 </ul>
             </div>
         </b></div><b>
     </b></footer><b>
     <!--*************************Start of copyright section*************************-->
     <div class="section-copyright" style="font-weight: normal;background-color:#BE020A">
-        <p> सर्वाधिकार © २०८० नेपाल सरकार,  राष्ट्रिय सूचना प्रविधि केन्द्र, सिंहदरवार, काठमाडौं</p>
+        <p>Copyright @bibekacharya</p>
     </div>
     <!--**********************************Starts of modal section*************************************-->
     <div class="modal fade" id="myModal" role="dialog" style="font-weight: normal;">
